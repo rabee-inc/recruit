@@ -15,18 +15,18 @@
 
 ## 🌱 カルチャー & 働き方
 - [Rabeeの価値観](culture/values.md)  
-- [働き方（リモート・フレックス・出社日など）](culture/work-style.md)  
+- [働き方（勤務時間・出社日など）](culture/work-style.md)  
 - [チームのコミュニケーション](culture/communication.md)  
-- [チーム体制・組織構造](culture/organization.md)  
+- [チーム体制](culture/organization.md)  
 - [プロジェクトの進め方](culture/project-flow.md)  
 - ストーリー集
   - [Rabee社員の1日](culture/stories/day-in-life.md)  
-  - [社員インタビュー](culture/stories/interview.md)  
+  - [社員インタビュー](culture/stories/interview.md)
 
 ---
 
 ## 💼 雇用条件
-- [給与・昇給・福利厚生](employment/conditions.md)  
+- [給与・評価制度・福利厚生](employment/conditions.md)  
 - [勤務時間・出社規定・休暇制度](employment/work-regulations.md)  
 - [よくある質問](employment/faq.md)  
 
@@ -35,13 +35,12 @@
 ## 🚀 キャリア & 成長
 - [入社後のオンボーディング](career/onboarding.md)  
 - [入社1〜2年で任される仕事・キャリアパス](career/growth-path.md)  
-- [学習・研修制度](career/training.md)  
+- [入社後の学習制度](career/training.md)  
 
 ---
 
 ## 📝 採用情報
 - [選考フロー](recruit/process.md)  
-- [採用担当からのメッセージ](recruit/message.md)  
 
 ---
 
