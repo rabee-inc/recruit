@@ -7,7 +7,8 @@
 ---
 
 ## 📌 Rabeeについて
-- [ミッション・ビジョン・バリュー](about/mission.md)  
+- [会社概要](about/Company overview)
+-  [ミッション・ビジョン・バリュー](about/mission.md)  
 - [事業・プロダクト紹介](about/business.md)  
 
 ---
