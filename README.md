@@ -27,7 +27,7 @@
 
 ## 💼 雇用条件
 - [給与・評価制度・福利厚生](employment/conditions.md)  
-- [勤務時間・出社規定・休暇制度](employment/work-regulations.md)  
+- [勤務時間・休暇制度](employment/work-regulations.md)  
 - [よくある質問](employment/faq.md)  
 
 ---
